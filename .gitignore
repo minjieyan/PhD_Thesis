@@ -222,3 +222,6 @@ pip-log.txt
 *.png
 *.pdf
 *.ps
+
+# ignore directory
+FromCBehrens/
