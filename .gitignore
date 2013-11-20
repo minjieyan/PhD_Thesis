@@ -217,3 +217,8 @@ pip-log.txt
 #Matlab
 *.mat
 *.fig
+
+# pdf ps png
+*.png
+*.pdf
+*.ps
